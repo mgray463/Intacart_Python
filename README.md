@@ -1,4 +1,4 @@
-# Portfolio
+# Instacart Project Folder
 
 In the second project, I looked at data from an online grocery store (Instacart) to help them learn more about their customers and their sales numbers. Using Python, we answered questions such as "Which days provide the most business?", "What time of day is the busiest?", and looked at customer demographics. 
 Included are the following folders:
